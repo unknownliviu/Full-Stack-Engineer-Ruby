@@ -1,10 +1,10 @@
-# Streetbees Full Stack Engineer (ruby) position
+# Streetbees Full Stack Engineer (Ruby) position
 
-[Role description](https://github.com/Streetbees/full-stack-engineer-ruby-/wiki/Role-description)
+[Role description](https://github.com/Streetbees/full-stack-engineer-ruby/wiki/Role-description)
 
-[Requirements](https://github.com/Streetbees/full-stack-engineer-ruby-/wiki/Requirements)
+[Requirements](https://github.com/Streetbees/full-stack-engineer-ruby/wiki/Requirements)
 
-[Benefits](https://github.com/Streetbees/full-stack-engineer-ruby-/wiki/Benefits)
+[Benefits](https://github.com/Streetbees/full-stack-engineer-ruby/wiki/Benefits)
 
 
 ### To apply you shoud follow the instructions below:
@@ -36,4 +36,4 @@
     - you develop in a scalable manner.
 
 - Deliverables
-    - The forked version of this repo;
+    - The forked version of this repo.
